@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/mern-ecommerce/static/js/main.31de7787.js",
+    "main.js": "/mern-ecommerce/static/js/main.edf3d0de.js",
     "index.html": "/mern-ecommerce/index.html",
-    "main.31de7787.js.map": "/mern-ecommerce/static/js/main.31de7787.js.map"
+    "main.edf3d0de.js.map": "/mern-ecommerce/static/js/main.edf3d0de.js.map"
   },
   "entrypoints": [
-    "static/js/main.31de7787.js"
+    "static/js/main.edf3d0de.js"
   ]
 }
